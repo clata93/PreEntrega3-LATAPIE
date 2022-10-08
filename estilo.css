@@ -17,7 +17,6 @@ h2{
     width: 100%;
     margin: auto;
 }
-
 .menu{
     height: 60px;
     background-color:  cadetblue;
@@ -40,7 +39,6 @@ h2{
     color:white;
     text-decoration: none;
 }
-
 #portada{
     display: flex;
     align-items: center;
@@ -280,7 +278,6 @@ h2{
     color: white;
 
   }
-
 
 
 
