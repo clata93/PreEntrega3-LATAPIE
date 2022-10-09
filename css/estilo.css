@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(img/fondo.jpg);
+    background-image: url(../img/fondo.jpg);
     background-size: cover;   
     font-family: sans-serif; 
       
@@ -49,7 +49,7 @@ h2{
     width: 90%;
     color: white;
     background-color: rgba(0, 0, 0, 0.3);
-    background-image: url(./img/Amen3.jpg);
+    background-image: url(../img/Amen3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -80,7 +80,7 @@ h2{
     width: 90%;
     color:white;
     background-color: rgba(0, 0, 0, 0.3);
-    background-image: url(./img/familia\ amen.jpg);
+    background-image: url(../img/familia\ amen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -99,7 +99,7 @@ h2{
     width: 90%;
     color:white;
     background-color: rgba(0, 0, 0, 0.3);
-    background-image: url(./img/Producto5.jpg);
+    background-image: url(../img/Producto5.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -118,7 +118,7 @@ h2{
     width: 90%;
     color:white;
     background-color: rgba(0, 0, 0, 0.3);
-    background-image: url(./img/fondoredes.jpeg);
+    background-image: url(../img/fondoredes.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -171,7 +171,7 @@ h2{
     width: 90%;
     color: black;
     background-color: rgba(0, 0, 0, 0.1);
-    background-image: url(./img/familia\ amen.jpg);
+    background-image: url(../img/familia\ amen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
